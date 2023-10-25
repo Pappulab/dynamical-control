@@ -1,0 +1,15 @@
+Filename                     Protein-1    Protein-2    Num-puncta-1    Num-puncta-2    Num-Colocalized    Colocalization-1    Colocalization-2    Threshold
+BNI1-640nm_416_ctrl_001.tif  BNI1         CLN3         1098            1145            31                 0.02823             0.02707             300
+CLN3-561nm_416_ctrl_001.tif  BNI1         CLN3         1098            1145            31                 0.02823             0.02707             300
+BNI1-640nm_416_ctrl_003.tif  BNI1         CLN3         409             1499            46                 0.11247             0.03069             300
+CLN3-561nm_416_ctrl_003.tif  BNI1         CLN3         409             1499            46                 0.11247             0.03069             300
+BNI1-640nm_416_ctrl_004.tif  BNI1         CLN3         300             1900            51                 0.17000             0.02684             300
+CLN3-561nm_416_ctrl_004.tif  BNI1         CLN3         300             1900            51                 0.17000             0.02684             300
+BNI1-640nm_416_ctrl_005.tif  BNI1         CLN3         589             1445            52                 0.08829             0.03599             300
+CLN3-561nm_416_ctrl_005.tif  BNI1         CLN3         589             1445            52                 0.08829             0.03599             300
+BNI1-640nm_416_ctrl_007.tif  BNI1         CLN3         200             1520            20                 0.10000             0.01316             300
+CLN3-561nm_416_ctrl_007.tif  BNI1         CLN3         200             1520            20                 0.10000             0.01316             300
+BNI1-640nm_416_ctrl_009.tif  BNI1         CLN3         229             2036            27                 0.11790             0.01326             300
+CLN3-561nm_416_ctrl_009.tif  BNI1         CLN3         229             2036            27                 0.11790             0.01326             300
+BNI1-640nm_416_ctrl_010.tif  BNI1         CLN3         353             2227            49                 0.13881             0.02200             300
+CLN3-561nm_416_ctrl_010.tif  BNI1         CLN3         353             2227            49                 0.13881             0.02200             300

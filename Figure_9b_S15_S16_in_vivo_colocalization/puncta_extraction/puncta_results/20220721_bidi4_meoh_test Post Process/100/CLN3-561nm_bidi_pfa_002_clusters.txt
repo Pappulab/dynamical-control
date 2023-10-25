@@ -1,0 +1,23 @@
+# Filename: CLN3-561nm_bidi_pfa_002.tif
+# Puncta radius (pixels): (1.3888888888888888, 1.3888888888888888)
+# Puncta radius (nm): (150, 150)
+# Cluster threshold (nm): 300
+# Min puncta per cluster: 2
+# Voxel size (nm): (108, 108)
+Y     X     NUM_PUNCTA    CLUSTER_ID
+504   859   2             0
+580   882   2             1
+619   835   7             2
+618   832   3             3
+629   815   2             4
+666   799   5             5
+665   840   3             6
+695   820   2             7
+764   829   3             8
+790   777   3             9
+793   848   2             10
+862   816   2             11
+868   822   2             12
+897   824   8             13
+902   861   2             14
+1857  1032  2             15

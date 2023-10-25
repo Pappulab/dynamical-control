@@ -1,0 +1,19 @@
+# Filename: CLN3-561nm_416_bidi_024.tif
+# Puncta radius (pixels): (1.3888888888888888, 1.3888888888888888)
+# Puncta radius (nm): (150, 150)
+# Cluster threshold (nm): 300
+# Min puncta per cluster: 2
+# Voxel size (nm): (108, 108)
+Y     X     NUM_PUNCTA    CLUSTER_ID
+799   779   2             0
+836   654   2             1
+873   1006  3             2
+961   1018  4             3
+1065  1096  2             4
+1084  1072  2             5
+1105  1109  2             6
+1156  818   2             7
+1291  839   2             8
+1449  931   3             9
+1483  1067  5             10
+1513  1059  15            11
