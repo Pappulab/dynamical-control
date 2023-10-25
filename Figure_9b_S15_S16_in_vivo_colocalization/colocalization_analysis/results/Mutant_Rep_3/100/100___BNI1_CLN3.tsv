@@ -1,0 +1,13 @@
+Filename                     Protein-1    Protein-2    Num-puncta-1    Num-puncta-2    Num-Colocalized    Colocalization-1    Colocalization-2    Threshold
+BNI1-640nm_bidi_pfa_001.tif  BNI1         CLN3         226             192             78                 0.34513             0.40625             300
+CLN3-561nm_bidi_pfa_001.tif  BNI1         CLN3         226             192             78                 0.34513             0.40625             300
+BNI1-640nm_bidi_pfa_003.tif  BNI1         CLN3         150             132             42                 0.28000             0.31818             300
+CLN3-561nm_bidi_pfa_003.tif  BNI1         CLN3         150             132             42                 0.28000             0.31818             300
+BNI1-640nm_bidi_pfa_004.tif  BNI1         CLN3         294             194             100                0.34014             0.51546             300
+CLN3-561nm_bidi_pfa_004.tif  BNI1         CLN3         294             194             100                0.34014             0.51546             300
+BNI1-640nm_bidi_pfa_005.tif  BNI1         CLN3         241             154             87                 0.36100             0.56494             300
+CLN3-561nm_bidi_pfa_005.tif  BNI1         CLN3         241             154             87                 0.36100             0.56494             300
+BNI1-640nm_bidi_pfa_006.tif  BNI1         CLN3         256             162             87                 0.33984             0.53704             300
+CLN3-561nm_bidi_pfa_006.tif  BNI1         CLN3         256             162             87                 0.33984             0.53704             300
+BNI1-640nm_bidi_pfa_007.tif  BNI1         CLN3         262             228             125                0.47710             0.54825             300
+CLN3-561nm_bidi_pfa_007.tif  BNI1         CLN3         262             228             125                0.47710             0.54825             300

@@ -1,0 +1,20 @@
+# Filename: BNI1-640nm_416_bidi_021.tif
+# Puncta radius (pixels): (1.3888888888888888, 1.3888888888888888)
+# Puncta radius (nm): (150, 150)
+# Cluster threshold (nm): 300
+# Min puncta per cluster: 2
+# Voxel size (nm): (108, 108)
+Y     X     NUM_PUNCTA    CLUSTER_ID
+641   1390  5             0
+690   1518  3             1
+1086  1841  3             2
+1132  1862  2             3
+1131  1858  2             4
+1158  1788  6             5
+1160  1843  3             6
+1173  1756  3             7
+1194  1831  3             8
+1201  1801  2             9
+1372  978   4             10
+1459  1052  4             11
+1531  393   2             12

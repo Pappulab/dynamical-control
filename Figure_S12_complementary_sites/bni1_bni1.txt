@@ -1,0 +1,1868 @@
+Minimal match length: 11
+Opening file: /var/bibiserv2/anonymous/guugle/21/23/53/bibiserv2_2022-10-21_235321_5rSzu/guugle_input_targetsequence.FILE
+Opening file: /var/bibiserv2/anonymous/guugle/21/23/53/bibiserv2_2022-10-21_235321_5rSzu/guugle_input_querysequence.FILE
+
+
+MatchLength: 12 "bni1" at 4905 vs. "bni1" at 2226 
+5aaaagguguucu3
+3uuuuccaugagg5
+
+MatchLength: 14 "bni1" at 6905 vs. "bni1" at 2171 
+5aacaggaggauucg3
+3uuguucucuugggu5
+
+MatchLength: 11 "bni1" at 5630 vs. "bni1" at 5503 
+5aacuugaaccu3
+3uugaacuuggg5
+
+MatchLength: 12 "bni1" at 1051 vs. "bni1" at 6757 
+5aagcaagcaaac3
+3uuuguucguuug5
+
+MatchLength: 11 "bni1" at 6919 vs. "bni1" at 357 
+5aagcagaugag3
+3uuuguuugcuu5
+
+MatchLength: 11 "bni1" at 2938 vs. "bni1" at 5205 
+5aagcaucuuuu3
+3uuuguggaagg5
+
+MatchLength: 11 "bni1" at 4087 vs. "bni1" at 2042 
+5aagucuuucgu3
+3uucagaaggug5
+
+MatchLength: 11 "bni1" at 1792 vs. "bni1" at 840 
+5aaguguuugag3
+3uuuauaggcuc5
+
+MatchLength: 11 "bni1" at 1792 vs. "bni1" at 4680 
+5aaguguuugag3
+3uucaugggcuc5
+
+MatchLength: 11 "bni1" at 5338 vs. "bni1" at 1666 
+5aaguuaaucac3
+3uuugguuagug5
+
+MatchLength: 11 "bni1" at 5167 vs. "bni1" at 2259 
+5aauauggcaag3
+3uuguaucguuu5
+
+MatchLength: 17 "bni1" at 2380 vs. "bni1" at 1627 
+5aaugagguccguaaauu3
+3uugcuuuagguguuuag5
+
+MatchLength: 12 "bni1" at 6420 vs. "bni1" at 483 
+5aaugcucgauga3
+3uuacgggcugcu5
+
+MatchLength: 12 "bni1" at 2169 vs. "bni1" at 1872 
+5aauggguucucu3
+3uuaucugggagg5
+
+MatchLength: 13 "bni1" at 2827 vs. "bni1" at 4717 
+5aauggucuaguug3
+3uugcugggucaac5
+
+MatchLength: 11 "bni1" at 770 vs. "bni1" at 4270 
+5acagcggcggu3
+3uguugccguca5
+
+MatchLength: 12 "bni1" at 4260 vs. "bni1" at 6725 
+5acaggacaagac3
+3uguuuuguuuug5
+
+MatchLength: 13 "bni1" at 4100 vs. "bni1" at 6724 
+5acaggaugaaacg3
+3uguuuuguuuugc5
+
+MatchLength: 12 "bni1" at 5499 vs. "bni1" at 5126 
+5acagggguucaa3
+3uguucuugaguu5
+
+MatchLength: 11 "bni1" at 287 vs. "bni1" at 6643 
+5accgucuugga3
+3uggcagggccu5
+
+MatchLength: 11 "bni1" at 2297 vs. "bni1" at 3692 
+5accuauugagg3
+3uggaugacuuc5
+
+MatchLength: 12 "bni1" at 6392 vs. "bni1" at 6827 
+5acggugaacacc3
+3uguuacuugugg5
+
+MatchLength: 11 "bni1" at 4627 vs. "bni1" at 6828 
+5acgguggauac3
+3uguuacuugug5
+
+MatchLength: 11 "bni1" at 5573 vs. "bni1" at 2098 
+5acuacguggaa3
+3ugguguaccuu5
+
+MatchLength: 11 "bni1" at 4270 vs. "bni1" at 770 
+5acugccguugu3
+3uggcggcgaca5
+
+MatchLength: 12 "bni1" at 1186 vs. "bni1" at 683 
+5acuucuuuaucu3
+3ugaagaaguagg5
+
+MatchLength: 11 "bni1" at 3432 vs. "bni1" at 5715 
+5acuuuucuacg3
+3uggaaaggugc5
+
+MatchLength: 14 "bni1" at 5918 vs. "bni1" at 2165 
+5agaacucguucuuc3
+3ucuuggguaagagg5
+
+MatchLength: 11 "bni1" at 860 vs. "bni1" at 2643 
+5agaaggugacg3
+3uuuuucauugc5
+
+MatchLength: 11 "bni1" at 5176 vs. "bni1" at 2487 
+5agaaguuuugc3
+3uuuucagaacg5
+
+MatchLength: 11 "bni1" at 2378 vs. "bni1" at 5944 
+5agaaugagguc3
+3ucuuauuucag5
+
+MatchLength: 13 "bni1" at 2714 vs. "bni1" at 355 
+5agacagaugaagu3
+3uuuguuugcuuua5
+
+MatchLength: 13 "bni1" at 5271 vs. "bni1" at 1664 
+5agaccaguuauuc3
+3uuugguuaguggg5
+
+MatchLength: 11 "bni1" at 6066 vs. "bni1" at 2643 
+5agagggugacg3
+3uuuuucauugc5
+
+MatchLength: 11 "bni1" at 6923 vs. "bni1" at 357 
+5agaugagugag3
+3uuuguuugcuu5
+
+MatchLength: 12 "bni1" at 6923 vs. "bni1" at 360 
+5agaugagugagc3
+3uuuauuuguuug5
+
+MatchLength: 13 "bni1" at 6923 vs. "bni1" at 6756 
+5agaugagugagca3
+3uuuguucguuugu5
+
+MatchLength: 11 "bni1" at 2094 vs. "bni1" at 5151 
+5agauuuccaug3
+3ucugaaggugu5
+
+MatchLength: 11 "bni1" at 3806 vs. "bni1" at 6836 
+5agcccucuaua3
+3ucgggagaugu5
+
+MatchLength: 11 "bni1" at 772 vs. "bni1" at 4271 
+5agcggcggugg3
+3uuguugccguc5
+
+MatchLength: 12 "bni1" at 4932 vs. "bni1" at 4030 
+5agcguuugcugc3
+3uuguaagugaug5
+
+MatchLength: 11 "bni1" at 4624 vs. "bni1" at 188 
+5aggacggugga3
+3ucuugccgccu5
+
+MatchLength: 11 "bni1" at 1280 vs. "bni1" at 3347 
+5aggaguugcua3
+3uucucgacggu5
+
+MatchLength: 11 "bni1" at 2525 vs. "bni1" at 3566 
+5agggccaucug3
+3ucccgguagau5
+
+MatchLength: 11 "bni1" at 612 vs. "bni1" at 6867 
+5agguguggaac3
+3uucacauuuug5
+
+MatchLength: 12 "bni1" at 612 vs. "bni1" at 6764 
+5agguguggaaca3
+3ucuauacuuugu5
+
+MatchLength: 11 "bni1" at 4514 vs. "bni1" at 1539 
+5agguuacagcc3
+3uccgaugucgg5
+
+MatchLength: 11 "bni1" at 1694 vs. "bni1" at 831 
+5agguugcaauu3
+3uccagcguuag5
+
+MatchLength: 11 "bni1" at 1888 vs. "bni1" at 778 
+5aguagguuguc3
+3uuguucggugg5
+
+MatchLength: 11 "bni1" at 1037 vs. "bni1" at 6757 
+5agugggcgagc3
+3uuguucguuug5
+
+MatchLength: 11 "bni1" at 1037 vs. "bni1" at 360 
+5agugggcgagc3
+3uuauuuguuug5
+
+MatchLength: 11 "bni1" at 3943 vs. "bni1" at 5929 
+5aguuucuugga3
+3uuaaagaacuu5
+
+MatchLength: 12 "bni1" at 3943 vs. "bni1" at 3141 
+5aguuucuuggaa3
+3ucggagaaucuu5
+
+MatchLength: 11 "bni1" at 438 vs. "bni1" at 3807 
+5auauagagggc3
+3uauaucucccg5
+
+MatchLength: 11 "bni1" at 4327 vs. "bni1" at 2138 
+5auauuugauga3
+3uauaaguuacu5
+
+MatchLength: 11 "bni1" at 5754 vs. "bni1" at 5390 
+5auccaaguucc3
+3uagguucgagg5
+
+MatchLength: 13 "bni1" at 6944 vs. "bni1" at 4881 
+5aucggcggauuuc3
+3uagccguuugaag5
+
+MatchLength: 13 "bni1" at 2531 vs. "bni1" at 4623 
+5aucuguuguccuu3
+3uagguggcaggag5
+
+MatchLength: 12 "bni1" at 3816 vs. "bni1" at 1867 
+5aucuuccacuac3
+3ugggagguggug5
+
+MatchLength: 11 "bni1" at 1103 vs. "bni1" at 5715 
+5aucuuuuugug3
+3uggaaaggugc5
+
+MatchLength: 13 "bni1" at 3887 vs. "bni1" at 6759 
+5augaaacaaguag3
+3uacuuuguucguu5
+
+MatchLength: 11 "bni1" at 2054 vs. "bni1" at 1669 
+5augaaacuaau3
+3uauuuugguua5
+
+MatchLength: 12 "bni1" at 5170 vs. "bni1" at 368 
+5auggcaagaagu3
+3ugccguucuuua5
+
+MatchLength: 11 "bni1" at 4853 vs. "bni1" at 1597 
+5auucuaucugg3
+3ugagauaggcu5
+
+MatchLength: 11 "bni1" at 3794 vs. "bni1" at 4658 
+5auucucugucg3
+3uaagaggcagu5
+
+MatchLength: 11 "bni1" at 3794 vs. "bni1" at 1868 
+5auucucugucg3
+3ugggagguggu5
+
+MatchLength: 11 "bni1" at 5201 vs. "bni1" at 1029 
+5auugggaaggu3
+3ugacccuucug5
+
+MatchLength: 11 "bni1" at 1669 vs. "bni1" at 2054 
+5auugguuuuau3
+3uaaucaaagua5
+
+MatchLength: 11 "bni1" at 1669 vs. "bni1" at 1438 
+5auugguuuuau3
+3uagcugagaug5
+
+MatchLength: 13 "bni1" at 5293 vs. "bni1" at 4833 
+5auuguuaaucuuc3
+3uaguaguuagaag5
+
+MatchLength: 13 "bni1" at 355 vs. "bni1" at 2714 
+5auuucguuuguuu3
+3ugaaguagacaga5
+
+MatchLength: 12 "bni1" at 368 vs. "bni1" at 5170 
+5auuucuugccgu3
+3ugaagaacggua5
+
+MatchLength: 11 "bni1" at 2287 vs. "bni1" at 1985 
+5caacagaggaa3
+3guuguuuccuu5
+
+MatchLength: 11 "bni1" at 3390 vs. "bni1" at 1634 
+5caacgaagucu3
+3guugcuuuagg5
+
+MatchLength: 13 "bni1" at 4717 vs. "bni1" at 2827 
+5caacugggucguu3
+3guugaucugguaa5
+
+MatchLength: 11 "bni1" at 6064 vs. "bni1" at 4994 
+5caagaggguga3
+3guucuuucauu5
+
+MatchLength: 11 "bni1" at 5508 vs. "bni1" at 2252 
+5caaguugagua3
+3guuuaauucgu5
+
+MatchLength: 11 "bni1" at 4214 vs. "bni1" at 1862 
+5caccacagagu3
+3guggugucucg5
+
+MatchLength: 11 "bni1" at 3269 vs. "bni1" at 1982 
+5cagaggaagaa3
+3guuuccuuuuu5
+
+MatchLength: 11 "bni1" at 2848 vs. "bni1" at 6725 
+5cagagugaggu3
+3guuuuguuuug5
+
+MatchLength: 11 "bni1" at 1524 vs. "bni1" at 6315 
+5cagcgcgaagc3
+3gucgcgcuucg5
+
+MatchLength: 11 "bni1" at 5626 vs. "bni1" at 5126 
+5caggaacuuga3
+3guucuugaguu5
+
+MatchLength: 11 "bni1" at 1902 vs. "bni1" at 4994 
+5caggaggguag3
+3guucuuucauu5
+
+MatchLength: 11 "bni1" at 3942 vs. "bni1" at 6461 
+5caguuucuugg3
+3gucaaagaacc5
+
+MatchLength: 11 "bni1" at 3942 vs. "bni1" at 1257 
+5caguuucuugg3
+3guuagagaacc5
+
+MatchLength: 15 "bni1" at 2551 vs. "bni1" at 1816 
+5caucucuuccugugg3
+3guagggaagggcguu5
+
+MatchLength: 11 "bni1" at 2530 vs. "bni1" at 606 
+5caucuguuguc3
+3guggacgacgg5
+
+MatchLength: 12 "bni1" at 1102 vs. "bni1" at 1399 
+5caucuuuuugug3
+3guagaagaacau5
+
+MatchLength: 11 "bni1" at 2139 vs. "bni1" at 5442 
+5cauugaauaua3
+3guagcuugugu5
+
+MatchLength: 12 "bni1" at 354 vs. "bni1" at 5836 
+5cauuucguuugu3
+3gugaagcaggcg5
+
+MatchLength: 13 "bni1" at 3870 vs. "bni1" at 3228 
+5cauuucugauaau3
+3guaaagguuauug5
+
+MatchLength: 11 "bni1" at 6461 vs. "bni1" at 3942 
+5ccaagaaacug3
+3gguucuuugac5
+
+MatchLength: 11 "bni1" at 1257 vs. "bni1" at 3942 
+5ccaagagauug3
+3gguucuuugac5
+
+MatchLength: 11 "bni1" at 5797 vs. "bni1" at 2164 
+5cccauucuucc3
+3ggguaagaggg5
+
+MatchLength: 11 "bni1" at 2080 vs. "bni1" at 1032 
+5ccuacugggag3
+3gggugacccuu5
+
+MatchLength: 15 "bni1" at 2559 vs. "bni1" at 6725 
+5ccuguggaguagagc3
+3ggguguuuuguuuug5
+
+MatchLength: 11 "bni1" at 3458 vs. "bni1" at 5001 
+5ccuuggacagg3
+3gggaucuguuc5
+
+MatchLength: 12 "bni1" at 2150 vs. "bni1" at 6167 
+5ccuuggacgguc3
+3ggaaccugccgg5
+
+MatchLength: 11 "bni1" at 3429 vs. "bni1" at 4878 
+5cgaacuuuucu3
+3guuugaagagg5
+
+MatchLength: 11 "bni1" at 4133 vs. "bni1" at 6439 
+5cgaacuuuuua3
+3gcuuggaaaau5
+
+MatchLength: 11 "bni1" at 6126 vs. "bni1" at 1347 
+5cgaugucaugg3
+3guuacgguauu5
+
+MatchLength: 11 "bni1" at 2872 vs. "bni1" at 6786 
+5cgcauauuaga3
+3guguauaaucu5
+
+MatchLength: 12 "bni1" at 5584 vs. "bni1" at 4534 
+5cgcaucgucagc3
+3gcguggcgguug5
+
+MatchLength: 11 "bni1" at 729 vs. "bni1" at 6727 
+5cgcggggcagg3
+3guguuuuguuu5
+
+MatchLength: 13 "bni1" at 4236 vs. "bni1" at 5061 
+5cgcugcugauauc3
+3gugacgacugugg5
+
+MatchLength: 13 "bni1" at 6506 vs. "bni1" at 3991 
+5cggaugcggccuc3
+3gucugcgucgggg5
+
+MatchLength: 11 "bni1" at 6107 vs. "bni1" at 4230 
+5cggcguccggc3
+3gucgcaggcug5
+
+MatchLength: 11 "bni1" at 3327 vs. "bni1" at 471 
+5cggugagcaag3
+3gcugcucguuu5
+
+MatchLength: 13 "bni1" at 777 vs. "bni1" at 6135 
+5cgguggcuuguuc3
+3gucaucgaacagg5
+
+MatchLength: 14 "bni1" at 777 vs. "bni1" at 732 
+5cgguggcuuguucu3
+3gccguuggacgggg5
+
+MatchLength: 11 "bni1" at 6709 vs. "bni1" at 3879 
+5cgucgucauua3
+3guaguaguaau5
+
+MatchLength: 11 "bni1" at 980 vs. "bni1" at 948 
+5cgucuggcgcu3
+3gcgggcugugg5
+
+MatchLength: 11 "bni1" at 3998 vs. "bni1" at 1215 
+5cgucuguaucu3
+3guagauauagg5
+
+MatchLength: 11 "bni1" at 5715 vs. "bni1" at 3432 
+5cguggaaaggu3
+3gcaucuuuuca5
+
+MatchLength: 11 "bni1" at 5715 vs. "bni1" at 1103 
+5cguggaaaggu3
+3guguuuuucua5
+
+MatchLength: 12 "bni1" at 5715 vs. "bni1" at 146 
+5cguggaaagguc3
+3guacuuuuccgg5
+
+MatchLength: 11 "bni1" at 4095 vs. "bni1" at 2178 
+5cguuaacagga3
+3gugguuguucu5
+
+MatchLength: 11 "bni1" at 2643 vs. "bni1" at 860 
+5cguuacuuuuu3
+3gcaguggaaga5
+
+MatchLength: 11 "bni1" at 2643 vs. "bni1" at 6066 
+5cguuacuuuuu3
+3gcagugggaga5
+
+MatchLength: 12 "bni1" at 4275 vs. "bni1" at 6386 
+5cguuguuucugg3
+3guggcaaagacu5
+
+MatchLength: 12 "bni1" at 4275 vs. "bni1" at 3232 
+5cguuguuucugg3
+3gcaguaaagguu5
+
+MatchLength: 13 "bni1" at 6724 vs. "bni1" at 4100 
+5cguuuuguuuugu3
+3gcaaaguaggaca5
+
+MatchLength: 12 "bni1" at 2270 vs. "bni1" at 1662 
+5cuaaucauccag3
+3gguuaguggguc5
+
+MatchLength: 11 "bni1" at 3824 vs. "bni1" at 3690 
+5cuacuggaggu3
+3gaugacuucug5
+
+MatchLength: 11 "bni1" at 2299 vs. "bni1" at 2674 
+5cuauugagguc3
+3gguaauuuugg5
+
+MatchLength: 14 "bni1" at 854 vs. "bni1" at 4004 
+5cuccgaagaaggug3
+3gaggcuucuucuau5
+
+MatchLength: 11 "bni1" at 840 vs. "bni1" at 1792 
+5cucggauauuu3
+3gaguuugugaa5
+
+MatchLength: 11 "bni1" at 4680 vs. "bni1" at 1792 
+5cucggguacuu3
+3gaguuugugaa5
+
+MatchLength: 11 "bni1" at 6327 vs. "bni1" at 2562 
+5cucugcuucac3
+3gagaugaggug5
+
+MatchLength: 12 "bni1" at 1863 vs. "bni1" at 6831 
+5cucuguggugga3
+3gagauguuacuu5
+
+MatchLength: 12 "bni1" at 6751 vs. "bni1" at 3359 
+5cugaauguuugc3
+3gguuugcgaaug5
+
+MatchLength: 11 "bni1" at 1610 vs. "bni1" at 1106 
+5cugcacaagaa3
+3gacguguuuuu5
+
+MatchLength: 14 "bni1" at 4253 vs. "bni1" at 6725 
+5cugcaggacaggac3
+3gguguuuuguuuug5
+
+MatchLength: 11 "bni1" at 4271 vs. "bni1" at 772 
+5cugccguuguu3
+3gguggcggcga5
+
+MatchLength: 11 "bni1" at 977 vs. "bni1" at 6504 
+5cugcgucuggc3
+3ggcguaggccg5
+
+MatchLength: 11 "bni1" at 3827 vs. "bni1" at 1734 
+5cuggagguuca3
+3gaucucugagu5
+
+MatchLength: 11 "bni1" at 2084 vs. "bni1" at 4911 
+5cugggagagca3
+3ggcucucuugu5
+
+MatchLength: 11 "bni1" at 520 vs. "bni1" at 5381 
+5cuggggcuugg3
+3ggccucgaacu5
+
+MatchLength: 12 "bni1" at 1662 vs. "bni1" at 2270 
+5cugggugauugg3
+3gaccuacuaauc5
+
+MatchLength: 11 "bni1" at 5685 vs. "bni1" at 6830 
+5cuguaaugagu3
+3gauguuacuug5
+
+MatchLength: 14 "bni1" at 2560 vs. "bni1" at 5694 
+5cuguggaguagagc3
+3ggcaucucgucuug5
+
+MatchLength: 13 "bni1" at 3096 vs. "bni1" at 6727 
+5cuuacaggauaga3
+3ggguguuuuguuu5
+
+MatchLength: 11 "bni1" at 3692 vs. "bni1" at 2297 
+5cuucaguaggu3
+3ggaguuaucca5
+
+MatchLength: 11 "bni1" at 5535 vs. "bni1" at 3510 
+5cuucauuaaag3
+3ggaguaauuuc5
+
+MatchLength: 11 "bni1" at 6875 vs. "bni1" at 4137 
+5cuucugaggag3
+3ggagauuuuuc5
+
+MatchLength: 11 "bni1" at 4127 vs. "bni1" at 5886 
+5cuucuucgaac3
+3gaagaggcuug5
+
+MatchLength: 11 "bni1" at 5394 vs. "bni1" at 5000 
+5cuuggauaagg3
+3ggaucuguucu5
+
+MatchLength: 12 "bni1" at 259 vs. "bni1" at 949 
+5cuuguccgguac3
+3gagcgggcugug5
+
+MatchLength: 11 "bni1" at 5001 vs. "bni1" at 3458 
+5cuugucuaggg3
+3ggacagguucc5
+
+MatchLength: 11 "bni1" at 3510 vs. "bni1" at 5535 
+5cuuuaaugagg3
+3gaaauuacuuc5
+
+MatchLength: 11 "bni1" at 3510 vs. "bni1" at 1637 
+5cuuuaaugagg3
+3ggaguugcuuu5
+
+MatchLength: 11 "bni1" at 1988 vs. "bni1" at 5988 
+5cuuuguugguu3
+3ggagcagcuag5
+
+MatchLength: 11 "bni1" at 4137 vs. "bni1" at 6875 
+5cuuuuuagagg3
+3gaggagucuuc5
+
+MatchLength: 12 "bni1" at 5934 vs. "bni1" at 1629 
+5gaaauucgcaga3
+3cuuuagguguuu5
+
+MatchLength: 13 "bni1" at 4833 vs. "bni1" at 5293 
+5gaagauugaugau3
+3cuucuaauuguua5
+
+MatchLength: 11 "bni1" at 861 vs. "bni1" at 991 
+5gaaggugacgc3
+3cuucuguugcg5
+
+MatchLength: 13 "bni1" at 4881 vs. "bni1" at 6944 
+5gaaguuugccgau3
+3cuuuaggcggcua5
+
+MatchLength: 11 "bni1" at 1434 vs. "bni1" at 5699 
+5gaccguagagu3
+3cuggcaucucg5
+
+MatchLength: 11 "bni1" at 5944 vs. "bni1" at 2378 
+5gacuuuauucu3
+3cuggaguaaga5
+
+MatchLength: 16 "bni1" at 5944 vs. "bni1" at 2844 
+5gacuuuauucuggagu3
+3uuggagugagacuucg5
+
+MatchLength: 11 "bni1" at 2491 vs. "bni1" at 1796 
+5gacuuuuggac3
+3cugagaguuug5
+
+MatchLength: 11 "bni1" at 2166 vs. "bni1" at 781 
+5gagaauggguu3
+3cucuuguucgg5
+
+MatchLength: 11 "bni1" at 6823 vs. "bni1" at 2227 
+5gagagguguuc3
+3uuuuccaugag5
+
+MatchLength: 11 "bni1" at 3331 vs. "bni1" at 6758 
+5gagcaaguaaa3
+3uuuguucguuu5
+
+MatchLength: 13 "bni1" at 4623 vs. "bni1" at 2531 
+5gaggacgguggau3
+3uuccuguugucua5
+
+MatchLength: 11 "bni1" at 6825 vs. "bni1" at 6735 
+5gagguguucau3
+3uucuacgggug5
+
+MatchLength: 11 "bni1" at 2227 vs. "bni1" at 6823 
+5gaguaccuuuu3
+3cuuguggagag5
+
+MatchLength: 11 "bni1" at 6927 vs. "bni1" at 6758 
+5gagugagcagg3
+3uuuguucguuu5
+
+MatchLength: 11 "bni1" at 6927 vs. "bni1" at 361 
+5gagugagcagg3
+3uuuauuuguuu5
+
+MatchLength: 11 "bni1" at 5988 vs. "bni1" at 1988 
+5gaucgacgagg3
+3uugguuguuuc5
+
+MatchLength: 14 "bni1" at 1590 vs. "bni1" at 5444 
+5gauuauaucggaua3
+3cuaguguagcuugu5
+
+MatchLength: 13 "bni1" at 3630 vs. "bni1" at 5211 
+5gauugaagaaaug3
+3uugacuucuuugu5
+
+MatchLength: 11 "bni1" at 831 vs. "bni1" at 1694 
+5gauugcgaccu3
+3uuaacguugga5
+
+MatchLength: 11 "bni1" at 3497 vs. "bni1" at 3648 
+5gauuuggaauu3
+3cuagguuuuag5
+
+MatchLength: 12 "bni1" at 1627 vs. "bni1" at 1627 
+5gauuuguggauu3
+3uuagguguuuag5
+
+MatchLength: 17 "bni1" at 1627 vs. "bni1" at 2380 
+5gauuuguggauuucguu3
+3uuaaaugccuggaguaa5
+
+MatchLength: 11 "bni1" at 3648 vs. "bni1" at 3497 
+5gauuuuggauc3
+3uuaagguuuag5
+
+MatchLength: 11 "bni1" at 1980 vs. "bni1" at 35 
+5gauuuuuccuu3
+3cuagaaggggg5
+
+MatchLength: 11 "bni1" at 2026 vs. "bni1" at 6752 
+5gcaaacauuca3
+3cguuuguaagu5
+
+MatchLength: 11 "bni1" at 2487 vs. "bni1" at 5176 
+5gcaagacuuuu3
+3cguuuugaaga5
+
+MatchLength: 14 "bni1" at 5438 vs. "bni1" at 5511 
+5gcaauguguucgau3
+3cguuacaugaguug5
+
+MatchLength: 11 "bni1" at 607 vs. "bni1" at 4933 
+5gcagcaggugu3
+3cgucguuugcg5
+
+MatchLength: 11 "bni1" at 6933 vs. "bni1" at 2553 
+5gcaggaagaga3
+3uguccuucucu5
+
+MatchLength: 12 "bni1" at 5970 vs. "bni1" at 5126 
+5gcaggaguuuaa3
+3uguucuugaguu5
+
+MatchLength: 11 "bni1" at 633 vs. "bni1" at 2446 
+5gcaggauuuac3
+3cgucuuaggug5
+
+MatchLength: 12 "bni1" at 6739 vs. "bni1" at 1968 
+5gcaucuugguuc3
+3cguagaacuggg5
+
+MatchLength: 11 "bni1" at 1705 vs. "bni1" at 1664 
+5gccaaucgccu3
+3ugguuaguggg5
+
+MatchLength: 11 "bni1" at 3807 vs. "bni1" at 438 
+5gcccucuauau3
+3cgggagauaua5
+
+MatchLength: 11 "bni1" at 6504 vs. "bni1" at 977 
+5gccggaugcgg3
+3cggucugcguc5
+
+MatchLength: 12 "bni1" at 1837 vs. "bni1" at 6950 
+5gcgcugaagucc3
+3cguggcuuuagg5
+
+MatchLength: 12 "bni1" at 5836 vs. "bni1" at 354 
+5gcggacgaagug3
+3uguuugcuuuac5
+
+MatchLength: 11 "bni1" at 773 vs. "bni1" at 6487 
+5gcggcgguggc3
+3cgccgccgcug5
+
+MatchLength: 11 "bni1" at 991 vs. "bni1" at 861 
+5gcguugucuuc3
+3cgcaguggaag5
+
+MatchLength: 11 "bni1" at 4933 vs. "bni1" at 607 
+5gcguuugcugc3
+3uguggacgacg5
+
+MatchLength: 11 "bni1" at 5385 vs. "bni1" at 2220 
+5gcuccggagcu3
+3ugaggucuugg5
+
+MatchLength: 11 "bni1" at 6423 vs. "bni1" at 812 
+5gcucgaugagc3
+3cgggcugcucg5
+
+MatchLength: 11 "bni1" at 812 vs. "bni1" at 6423 
+5gcucgucgggc3
+3cgaguagcucg5
+
+MatchLength: 11 "bni1" at 5699 vs. "bni1" at 1434 
+5gcucuacgguc3
+3ugagaugccag5
+
+MatchLength: 11 "bni1" at 1862 vs. "bni1" at 4214 
+5gcucuguggug3
+3ugagacaccac5
+
+MatchLength: 11 "bni1" at 988 vs. "bni1" at 4537 
+5gcugcguuguc3
+3cggcguggcgg5
+
+MatchLength: 16 "bni1" at 2844 vs. "bni1" at 5944 
+5gcuucagagugagguu3
+3ugaggucuuauuucag5
+
+MatchLength: 11 "bni1" at 6315 vs. "bni1" at 1524 
+5gcuucgcgcug3
+3cgaagcgcgac5
+
+MatchLength: 12 "bni1" at 4509 vs. "bni1" at 779 
+5ggaacagguuac3
+3ucuuguucggug5
+
+MatchLength: 11 "bni1" at 5205 vs. "bni1" at 2938 
+5ggaagguguuu3
+3uuuucuacgaa5
+
+MatchLength: 12 "bni1" at 5205 vs. "bni1" at 2226 
+5ggaagguguuuc3
+3uuuuccaugagg5
+
+MatchLength: 11 "bni1" at 1395 vs. "bni1" at 2234 
+5ggaauacaaga3
+3ccuuauguuuu5
+
+MatchLength: 13 "bni1" at 6135 vs. "bni1" at 777 
+5ggacaagcuacug3
+3cuuguucgguggc5
+
+MatchLength: 11 "bni1" at 3462 vs. "bni1" at 779 
+5ggacaggcuac3
+3cuuguucggug5
+
+MatchLength: 12 "bni1" at 4625 vs. "bni1" at 5602 
+5ggacgguggaua3
+3cuugcuaccuau5
+
+MatchLength: 11 "bni1" at 6882 vs. "bni1" at 2644 
+5ggagaaguaau3
+3cuuuuucauug5
+
+MatchLength: 11 "bni1" at 4878 vs. "bni1" at 3429 
+5ggagaaguuug3
+3ucuuuucaagc5
+
+MatchLength: 14 "bni1" at 2165 vs. "bni1" at 5918 
+5ggagaauggguucu3
+3cuucuugcucaaga5
+
+MatchLength: 11 "bni1" at 5390 vs. "bni1" at 5754 
+5ggagcuuggau3
+3ccuugaaccua5
+
+MatchLength: 12 "bni1" at 1872 vs. "bni1" at 2169 
+5ggagggucuauu3
+3ucucuuggguaa5
+
+MatchLength: 12 "bni1" at 2226 vs. "bni1" at 4905 
+5ggaguaccuuuu3
+3ucuuguggaaaa5
+
+MatchLength: 12 "bni1" at 2226 vs. "bni1" at 5205 
+5ggaguaccuuuu3
+3cuuuguggaagg5
+
+MatchLength: 11 "bni1" at 1215 vs. "bni1" at 3998 
+5ggauauagaug3
+3ucuaugucugc5
+
+MatchLength: 11 "bni1" at 3204 vs. "bni1" at 329 
+5ggauauuauug3
+3ucuauagugau5
+
+MatchLength: 12 "bni1" at 683 vs. "bni1" at 1186 
+5ggaugaagaagu3
+3ucuauuucuuca5
+
+MatchLength: 11 "bni1" at 6950 vs. "bni1" at 2741 
+5ggauuucggug3
+3ucuaaggucau5
+
+MatchLength: 11 "bni1" at 6950 vs. "bni1" at 2300 
+5ggauuucggug3
+3ccuggaguuau5
+
+MatchLength: 12 "bni1" at 6950 vs. "bni1" at 1837 
+5ggauuucggugc3
+3ccugaagucgcg5
+
+MatchLength: 11 "bni1" at 1634 vs. "bni1" at 3390 
+5ggauuucguug3
+3ucugaagcaac5
+
+MatchLength: 11 "bni1" at 4618 vs. "bni1" at 2174 
+5ggcaagaggac3
+3uuguucucuug5
+
+MatchLength: 11 "bni1" at 2802 vs. "bni1" at 6757 
+5ggcaaguaagc3
+3uuguucguuug5
+
+MatchLength: 11 "bni1" at 606 vs. "bni1" at 2530 
+5ggcagcaggug3
+3cuguugucuac5
+
+MatchLength: 12 "bni1" at 6167 vs. "bni1" at 2150 
+5ggccguccaagg3
+3cuggcagguucc5
+
+MatchLength: 12 "bni1" at 146 vs. "bni1" at 5715 
+5ggccuuuucaug3
+3cuggaaaggugc5
+
+MatchLength: 11 "bni1" at 4537 vs. "bni1" at 988 
+5ggcggugcggc3
+3cuguugcgucg5
+
+MatchLength: 11 "bni1" at 1539 vs. "bni1" at 4514 
+5ggcuguagccu3
+3ccgacauugga5
+
+MatchLength: 11 "bni1" at 781 vs. "bni1" at 2166 
+5ggcuuguucuc3
+3uuggguaagag5
+
+MatchLength: 12 "bni1" at 1689 vs. "bni1" at 779 
+5gggacagguugc3
+3ucuuguucggug5
+
+MatchLength: 11 "bni1" at 2164 vs. "bni1" at 5797 
+5gggagaauggg3
+3ccuucuuaccc5
+
+MatchLength: 11 "bni1" at 1825 vs. "bni1" at 2234 
+5gggaugcagga3
+3ccuuauguuuu5
+
+MatchLength: 11 "bni1" at 6842 vs. "bni1" at 5311 
+5gggcuccagua3
+3cucgaggucau5
+
+MatchLength: 11 "bni1" at 6240 vs. "bni1" at 5858 
+5gggcuccauua3
+3cuugagguaau5
+
+MatchLength: 14 "bni1" at 732 vs. "bni1" at 777 
+5ggggcagguugccg3
+3ucuuguucgguggc5
+
+MatchLength: 11 "bni1" at 3991 vs. "bni1" at 4540 
+5ggggcugcguc3
+3ccucggcgugg5
+
+MatchLength: 13 "bni1" at 3991 vs. "bni1" at 6506 
+5ggggcugcgucug3
+3cuccggcguaggc5
+
+MatchLength: 11 "bni1" at 35 vs. "bni1" at 1980 
+5gggggaagauc3
+3uuccuuuuuag5
+
+MatchLength: 13 "bni1" at 4683 vs. "bni1" at 5203 
+5ggguacuuuccca3
+3uuuguggaagggu5
+
+MatchLength: 12 "bni1" at 1968 vs. "bni1" at 6739 
+5gggucaagaugc3
+3cuugguucuacg5
+
+MatchLength: 11 "bni1" at 1664 vs. "bni1" at 1705 
+5gggugauuggu3
+3uccgcuaaccg5
+
+MatchLength: 13 "bni1" at 1664 vs. "bni1" at 5271 
+5gggugauugguuu3
+3cuuauugaccaga5
+
+MatchLength: 11 "bni1" at 5503 vs. "bni1" at 5630 
+5ggguucaaguu3
+3uccaaguucaa5
+
+MatchLength: 11 "bni1" at 3328 vs. "bni1" at 360 
+5ggugagcaagu3
+3uuauuuguuug5
+
+MatchLength: 12 "bni1" at 3328 vs. "bni1" at 6756 
+5ggugagcaagua3
+3uuguucguuugu5
+
+MatchLength: 11 "bni1" at 4540 vs. "bni1" at 3991 
+5ggugcggcucc3
+3cugcgucgggg5
+
+MatchLength: 11 "bni1" at 778 vs. "bni1" at 1888 
+5gguggcuuguu3
+3cuguuggauga5
+
+MatchLength: 13 "bni1" at 5061 vs. "bni1" at 4236 
+5ggugucagcagug3
+3cuauagucgucgc5
+
+MatchLength: 11 "bni1" at 948 vs. "bni1" at 980 
+5ggugucgggcg3
+3ucgcggucugc5
+
+MatchLength: 12 "bni1" at 6827 vs. "bni1" at 6392 
+5gguguucauugu3
+3ccacaaguggca5
+
+MatchLength: 12 "bni1" at 6827 vs. "bni1" at 4030 
+5gguguucauugu3
+3uuguaagugaug5
+
+MatchLength: 14 "bni1" at 4909 vs. "bni1" at 4859 
+5gguguucucucgga3
+3ccguaagagggucu5
+
+MatchLength: 11 "bni1" at 3227 vs. "bni1" at 2426 
+5gguuauuggaa3
+3ucaguaauuuu5
+
+MatchLength: 11 "bni1" at 2220 vs. "bni1" at 5385 
+5gguucuggagu3
+3ucgaggccucg5
+
+MatchLength: 11 "bni1" at 2674 vs. "bni1" at 2299 
+5gguuuuaaugg3
+3cuggaguuauc5
+
+MatchLength: 11 "bni1" at 343 vs. "bni1" at 6850 
+5guaacauguau3
+3cauuguauaug5
+
+MatchLength: 12 "bni1" at 3359 vs. "bni1" at 6751 
+5guaagcguuugg3
+3cguuuguaaguc5
+
+MatchLength: 11 "bni1" at 1438 vs. "bni1" at 1669 
+5guagagucgau3
+3uauuuugguua5
+
+MatchLength: 12 "bni1" at 4030 vs. "bni1" at 4932 
+5guagugaauguu3
+3cgucguuugcga5
+
+MatchLength: 12 "bni1" at 4030 vs. "bni1" at 6827 
+5guagugaauguu3
+3uguuacuugugg5
+
+MatchLength: 11 "bni1" at 6850 vs. "bni1" at 343 
+5guauauguuac3
+3uauguacaaug5
+
+MatchLength: 14 "bni1" at 4003 vs. "bni1" at 5887 
+5guaucuucuucgga3
+3cguagaagaggcuu5
+
+MatchLength: 11 "bni1" at 6487 vs. "bni1" at 773 
+5gucgccgccgc3
+3cgguggcggcg5
+
+MatchLength: 11 "bni1" at 4230 vs. "bni1" at 6107 
+5gucggacgcug3
+3cggccugcggc5
+
+MatchLength: 11 "bni1" at 951 vs. "bni1" at 1565 
+5gucgggcgagg3
+3uagcccgcucu5
+
+MatchLength: 12 "bni1" at 2831 vs. "bni1" at 2831 
+5gucuaguuggac3
+3cagguugaucug5
+
+MatchLength: 11 "bni1" at 1737 vs. "bni1" at 5003 
+5gucucuagaua3
+3cagggaucugu5
+
+MatchLength: 11 "bni1" at 981 vs. "bni1" at 6810 
+5gucuggcgcug3
+3uagaccgcgau5
+
+MatchLength: 11 "bni1" at 3690 vs. "bni1" at 3824 
+5gucuucaguag3
+3uggaggucauc5
+
+MatchLength: 11 "bni1" at 1029 vs. "bni1" at 5201 
+5gucuucccagu3
+3uggaaggguua5
+
+MatchLength: 11 "bni1" at 4089 vs. "bni1" at 1868 
+5gucuuucguua3
+3ugggagguggu5
+
+MatchLength: 11 "bni1" at 6929 vs. "bni1" at 538 
+5gugagcaggaa3
+3cguucgucuuu5
+
+MatchLength: 11 "bni1" at 1666 vs. "bni1" at 5338 
+5gugauugguuu3
+3cacuaauugaa5
+
+MatchLength: 11 "bni1" at 3473 vs. "bni1" at 3650 
+5gugauuuggaa3
+3cgcuagguuuu5
+
+MatchLength: 11 "bni1" at 2042 vs. "bni1" at 4087 
+5guggaagacuu3
+3ugcuuucugaa5
+
+MatchLength: 11 "bni1" at 2562 vs. "bni1" at 6327 
+5guggaguagag3
+3cacuucgucuc5
+
+MatchLength: 11 "bni1" at 2446 vs. "bni1" at 633 
+5guggauucugc3
+3cauuuaggacg5
+
+MatchLength: 12 "bni1" at 651 vs. "bni1" at 866 
+5guggcagcgucg3
+3ugccgucgcagu5
+
+MatchLength: 11 "bni1" at 779 vs. "bni1" at 3462 
+5guggcuuguuc3
+3caucggacagg5
+
+MatchLength: 12 "bni1" at 779 vs. "bni1" at 4509 
+5guggcuuguucu3
+3cauuggacaagg5
+
+MatchLength: 12 "bni1" at 779 vs. "bni1" at 1689 
+5guggcuuguucu3
+3cguuggacaggg5
+
+MatchLength: 12 "bni1" at 597 vs. "bni1" at 6725 
+5gugggacaaggc3
+3uguuuuguuuug5
+
+MatchLength: 11 "bni1" at 6735 vs. "bni1" at 6825 
+5gugggcaucuu3
+3uacuuguggag5
+
+MatchLength: 11 "bni1" at 33 vs. "bni1" at 1983 
+5gugggggaaga3
+3uguuuccuuuu5
+
+MatchLength: 12 "bni1" at 1867 vs. "bni1" at 3816 
+5gugguggagggu3
+3caucaccuucua5
+
+MatchLength: 12 "bni1" at 949 vs. "bni1" at 259 
+5gugucgggcgag3
+3cauggccuguuc5
+
+MatchLength: 11 "bni1" at 6828 vs. "bni1" at 4627 
+5guguucauugu3
+3cauagguggca5
+
+MatchLength: 12 "bni1" at 5210 vs. "bni1" at 2947 
+5guguuucuucag3
+3uacaaagagguu5
+
+MatchLength: 11 "bni1" at 2644 vs. "bni1" at 6882 
+5guuacuuuuuc3
+3uaaugaagagg5
+
+MatchLength: 13 "bni1" at 3228 vs. "bni1" at 3870 
+5guuauuggaaaug3
+3uaauagucuuuac5
+
+MatchLength: 11 "bni1" at 6830 vs. "bni1" at 5685 
+5guucauuguag3
+3ugaguaauguc5
+
+MatchLength: 11 "bni1" at 5886 vs. "bni1" at 4127 
+5guucggagaag3
+3caagcuucuuc5
+
+MatchLength: 11 "bni1" at 2174 vs. "bni1" at 4618 
+5guucucuuguu3
+3caggagaacgg5
+
+MatchLength: 13 "bni1" at 2174 vs. "bni1" at 3378 
+5guucucuuguugg3
+3cgagaggacaacu5
+
+MatchLength: 11 "bni1" at 1454 vs. "bni1" at 2563 
+5guucugcucua3
+3cgagaugaggu5
+
+MatchLength: 14 "bni1" at 5694 vs. "bni1" at 2560 
+5guucugcucuacgg3
+3cgagaugagguguc5
+
+MatchLength: 11 "bni1" at 2221 vs. "bni1" at 5949 
+5guucuggagua3
+3ugaggucuuau5
+
+MatchLength: 14 "bni1" at 5511 vs. "bni1" at 5438 
+5guugaguacauugc3
+3uagcuuguguaacg5
+
+MatchLength: 12 "bni1" at 247 vs. "bni1" at 4536 
+5guugcaccgcca3
+3cggcguggcggu5
+
+MatchLength: 11 "bni1" at 4821 vs. "bni1" at 5446 
+5guugcauuggg3
+3uaguguagcuu5
+
+MatchLength: 12 "bni1" at 4534 vs. "bni1" at 5584 
+5guuggcggugcg3
+3cgacugcuacgc5
+
+MatchLength: 12 "bni1" at 4276 vs. "bni1" at 6032 
+5guuguuucugga3
+3cgacgaggaccu5
+
+MatchLength: 12 "bni1" at 4279 vs. "bni1" at 4279 
+5guuucuggaaac3
+3caaaggucuuug5
+
+MatchLength: 11 "bni1" at 1796 vs. "bni1" at 2491 
+5guuugagaguc3
+3cagguuuucag5
+
+MatchLength: 11 "bni1" at 6757 vs. "bni1" at 1037 
+5guuugcuuguu3
+3cgagcggguga5
+
+MatchLength: 11 "bni1" at 6757 vs. "bni1" at 2802 
+5guuugcuuguu3
+3cgaaugaacgg5
+
+MatchLength: 12 "bni1" at 6757 vs. "bni1" at 1051 
+5guuugcuuguuu3
+3caaacgaacgaa5
+
+MatchLength: 11 "bni1" at 360 vs. "bni1" at 1037 
+5guuuguuuauu3
+3cgagcggguga5
+
+MatchLength: 11 "bni1" at 360 vs. "bni1" at 3328 
+5guuuguuuauu3
+3ugaacgagugg5
+
+MatchLength: 12 "bni1" at 360 vs. "bni1" at 6923 
+5guuuguuuauuu3
+3cgagugaguaga5
+
+MatchLength: 11 "bni1" at 6867 vs. "bni1" at 612 
+5guuuuacacuu3
+3caaggugugga5
+
+MatchLength: 12 "bni1" at 6730 vs. "bni1" at 2727 
+5guuuugugggca3
+3cgagacgcucgu5
+
+MatchLength: 11 "bni1" at 6725 vs. "bni1" at 2848 
+5guuuuguuuug3
+3uggagugagac5
+
+MatchLength: 12 "bni1" at 6725 vs. "bni1" at 4260 
+5guuuuguuuugu3
+3cagaacaggaca5
+
+MatchLength: 12 "bni1" at 6725 vs. "bni1" at 597 
+5guuuuguuuugu3
+3cggaacagggug5
+
+MatchLength: 14 "bni1" at 6725 vs. "bni1" at 4253 
+5guuuuguuuugugg3
+3caggacaggacguc5
+
+MatchLength: 15 "bni1" at 6725 vs. "bni1" at 2559 
+5guuuuguuuuguggg3
+3cgagaugaggugucc5
+
+MatchLength: 11 "bni1" at 6439 vs. "bni1" at 4133 
+5uaaaagguucg3
+3auuuuucaagc5
+
+MatchLength: 11 "bni1" at 1791 vs. "bni1" at 486 
+5uaaguguuuga3
+3auuuacgggcu5
+
+MatchLength: 11 "bni1" at 3879 vs. "bni1" at 6709 
+5uaaugaugaug3
+3auuacugcugc5
+
+MatchLength: 11 "bni1" at 5858 vs. "bni1" at 6240 
+5uaauggaguuc3
+3auuaccucggg5
+
+MatchLength: 12 "bni1" at 5858 vs. "bni1" at 1633 
+5uaauggaguucg3
+3guugcuuuaggu5
+
+MatchLength: 12 "bni1" at 1399 vs. "bni1" at 1102 
+5uacaagaagaug3
+3guguuuuucuac5
+
+MatchLength: 11 "bni1" at 2078 vs. "bni1" at 3693 
+5uaccuacuggg3
+3auggaugacuu5
+
+MatchLength: 13 "bni1" at 3470 vs. "bni1" at 159 
+5uacgugauuugga3
+3guguguuagacuu5
+
+MatchLength: 11 "bni1" at 2741 vs. "bni1" at 6950 
+5uacuggaaucu3
+3guggcuuuagg5
+
+MatchLength: 11 "bni1" at 5311 vs. "bni1" at 6842 
+5uacuggagcuc3
+3augaccucggg5
+
+MatchLength: 11 "bni1" at 3566 vs. "bni1" at 2525 
+5uagauggcccu3
+3gucuaccggga5
+
+MatchLength: 11 "bni1" at 6810 vs. "bni1" at 981 
+5uagcgccagau3
+3gucgcggucug5
+
+MatchLength: 11 "bni1" at 329 vs. "bni1" at 3204 
+5uagugauaucu3
+3guuauuauagg5
+
+MatchLength: 12 "bni1" at 5602 vs. "bni1" at 4625 
+5uauccaucguuc3
+3auagguggcagg5
+
+MatchLength: 14 "bni1" at 4004 vs. "bni1" at 854 
+5uaucuucuucggag3
+3guggaagaagccuc5
+
+MatchLength: 11 "bni1" at 4656 vs. "bni1" at 6619 
+5uaugacggaga3
+3guauugcuucu5
+
+MatchLength: 11 "bni1" at 3207 vs. "bni1" at 2676 
+5uauuauugaga3
+3gugguaauuuu5
+
+MatchLength: 11 "bni1" at 5949 vs. "bni1" at 2221 
+5uauucuggagu3
+3augaggucuug5
+
+MatchLength: 12 "bni1" at 5949 vs. "bni1" at 5949 
+5uauucuggagua3
+3augaggucuuau5
+
+MatchLength: 11 "bni1" at 2300 vs. "bni1" at 6950 
+5uauugaggucc3
+3guggcuuuagg5
+
+MatchLength: 13 "bni1" at 3378 vs. "bni1" at 2174 
+5ucaacaggagagc3
+3gguuguucucuug5
+
+MatchLength: 11 "bni1" at 5381 vs. "bni1" at 520 
+5ucaagcuccgg3
+3gguucgggguc5
+
+MatchLength: 18 "bni1" at 5381 vs. "bni1" at 5381 
+5ucaagcuccggagcuugg3
+3gguucgaggccucgaacu5
+
+MatchLength: 14 "bni1" at 5320 vs. "bni1" at 5320 
+5ucacgcaugcgugg3
+3ggugcguacgcacu5
+
+MatchLength: 12 "bni1" at 6386 vs. "bni1" at 4275 
+5ucagaaacggug3
+3ggucuuuguugc5
+
+MatchLength: 11 "bni1" at 5218 vs. "bni1" at 2653 
+5ucaguugagga3
+3aguuagcuccu5
+
+MatchLength: 11 "bni1" at 2138 vs. "bni1" at 4327 
+5ucauugaauau3
+3aguaguuuaua5
+
+MatchLength: 11 "bni1" at 5755 vs. "bni1" at 521 
+5uccaaguucca3
+3agguucggggu5
+
+MatchLength: 12 "bni1" at 6032 vs. "bni1" at 4276 
+5uccaggagcagc3
+3aggucuuuguug5
+
+MatchLength: 11 "bni1" at 4800 vs. "bni1" at 4006 
+5uccgaagaaga3
+3aggcuucuucu5
+
+MatchLength: 11 "bni1" at 188 vs. "bni1" at 4624 
+5uccgccguucu3
+3agguggcagga5
+
+MatchLength: 11 "bni1" at 6643 vs. "bni1" at 287 
+5uccgggacggu3
+3agguucugcca5
+
+MatchLength: 11 "bni1" at 2653 vs. "bni1" at 5218 
+5uccucgauuga3
+3aggaguugacu5
+
+MatchLength: 11 "bni1" at 1597 vs. "bni1" at 4853 
+5ucggauagagu3
+3ggucuaucuua5
+
+MatchLength: 12 "bni1" at 841 vs. "bni1" at 4323 
+5ucggauauuucg3
+3aguuuauagagu5
+
+MatchLength: 11 "bni1" at 486 vs. "bni1" at 1791 
+5ucgggcauuua3
+3aguuugugaau5
+
+MatchLength: 12 "bni1" at 483 vs. "bni1" at 6420 
+5ucgucgggcauu3
+3aguagcucguaa5
+
+MatchLength: 11 "bni1" at 6786 vs. "bni1" at 2872 
+5ucuaauaugug3
+3agauuauacgc5
+
+MatchLength: 11 "bni1" at 1565 vs. "bni1" at 951 
+5ucucgcccgau3
+3ggagcgggcug5
+
+MatchLength: 11 "bni1" at 1195 vs. "bni1" at 1866 
+5ucucugcuaca3
+3ggagguggugu5
+
+MatchLength: 11 "bni1" at 2553 vs. "bni1" at 6933 
+5ucucuuccugu3
+3agagaaggacg5
+
+MatchLength: 11 "bni1" at 2176 vs. "bni1" at 3130 
+5ucucuuguugg3
+3agagaacaguu5
+
+MatchLength: 11 "bni1" at 5952 vs. "bni1" at 5640 
+5ucuggaguaca3
+3ggacuucaugu5
+
+MatchLength: 14 "bni1" at 4859 vs. "bni1" at 4909 
+5ucugggagaaugcc3
+3aggcucucuugugg5
+
+MatchLength: 11 "bni1" at 2671 vs. "bni1" at 3061 
+5ucugguuuuaa3
+3agaccaaaguu5
+
+MatchLength: 11 "bni1" at 1864 vs. "bni1" at 939 
+5ucuguggugga3
+3ggacaccauuu5
+
+MatchLength: 13 "bni1" at 1864 vs. "bni1" at 4247 
+5ucugugguggagg3
+3ggacgucacuucu5
+
+MatchLength: 13 "bni1" at 4247 vs. "bni1" at 1864 
+5ucuucacugcagg3
+3ggagguggugucu5
+
+MatchLength: 14 "bni1" at 5215 vs. "bni1" at 5215 
+5ucuucaguugagga3
+3aggaguugacuucu5
+
+MatchLength: 12 "bni1" at 2037 vs. "bni1" at 3731 
+5ucuucguggaag3
+3ggaggcaccuuu5
+
+MatchLength: 11 "bni1" at 6619 vs. "bni1" at 4656 
+5ucuucguuaug3
+3agaggcaguau5
+
+MatchLength: 11 "bni1" at 6619 vs. "bni1" at 1866 
+5ucuucguuaug3
+3ggagguggugu5
+
+MatchLength: 11 "bni1" at 4006 vs. "bni1" at 4800 
+5ucuucuucgga3
+3agaagaagccu5
+
+MatchLength: 11 "bni1" at 5000 vs. "bni1" at 5394 
+5ucuugucuagg3
+3ggaauagguuc5
+
+MatchLength: 11 "bni1" at 2178 vs. "bni1" at 4095 
+5ucuuguuggug3
+3aggacaauugc5
+
+MatchLength: 11 "bni1" at 2943 vs. "bni1" at 4138 
+5ucuuuuggaga3
+3aggagauuuuu5
+
+MatchLength: 11 "bni1" at 6752 vs. "bni1" at 2026 
+5ugaauguuugc3
+3acuuacaaacg5
+
+MatchLength: 12 "bni1" at 866 vs. "bni1" at 651 
+5ugacgcugccgu3
+3gcugcgacggug5
+
+MatchLength: 11 "bni1" at 4658 vs. "bni1" at 3794 
+5ugacggagaau3
+3gcugucucuua5
+
+MatchLength: 12 "bni1" at 4323 vs. "bni1" at 841 
+5ugagauauuuga3
+3gcuuuauaggcu5
+
+MatchLength: 11 "bni1" at 1734 vs. "bni1" at 3827 
+5ugagucucuag3
+3acuuggagguc5
+
+MatchLength: 11 "bni1" at 2454 vs. "bni1" at 1991 
+5ugcagucgaua3
+3acguugguugu5
+
+MatchLength: 12 "bni1" at 5460 vs. "bni1" at 1990 
+5ugcagucgguaa3
+3acguugguuguu5
+
+MatchLength: 12 "bni1" at 2727 vs. "bni1" at 6730 
+5ugcucgcagagc3
+3acggguguuuug5
+
+MatchLength: 11 "bni1" at 2252 vs. "bni1" at 5508 
+5ugcuuaauuug3
+3augaguugaac5
+
+MatchLength: 11 "bni1" at 5954 vs. "bni1" at 2235 
+5uggaguacaag3
+3accuuauguuu5
+
+MatchLength: 11 "bni1" at 2563 vs. "bni1" at 1454 
+5uggaguagagc3
+3aucucgucuug5
+
+MatchLength: 12 "bni1" at 1633 vs. "bni1" at 5858 
+5uggauuucguug3
+3gcuugagguaau5
+
+MatchLength: 11 "bni1" at 3347 vs. "bni1" at 1280 
+5uggcagcucuu3
+3aucguugagga5
+
+MatchLength: 11 "bni1" at 3545 vs. "bni1" at 1989 
+5uggccaaugga3
+3guugguuguuu5
+
+MatchLength: 12 "bni1" at 4536 vs. "bni1" at 247 
+5uggcggugcggc3
+3accgccacguug5
+
+MatchLength: 13 "bni1" at 5203 vs. "bni1" at 4683 
+5ugggaagguguuu3
+3acccuuucauggg5
+
+MatchLength: 11 "bni1" at 521 vs. "bni1" at 5755 
+5uggggcuugga3
+3accuugaaccu5
+
+MatchLength: 14 "bni1" at 2171 vs. "bni1" at 6905 
+5uggguucucuuguu3
+3gcuuaggaggacaa5
+
+MatchLength: 11 "bni1" at 1868 vs. "bni1" at 3794 
+5ugguggagggu3
+3gcugucucuua5
+
+MatchLength: 11 "bni1" at 1868 vs. "bni1" at 4089 
+5ugguggagggu3
+3auugcuuucug5
+
+MatchLength: 11 "bni1" at 5640 vs. "bni1" at 5952 
+5uguacuucagg3
+3acaugaggucu5
+
+MatchLength: 11 "bni1" at 6836 vs. "bni1" at 3806 
+5uguagagggcu3
+3auaucucccga5
+
+MatchLength: 11 "bni1" at 5003 vs. "bni1" at 1737 
+5ugucuagggac3
+3auagaucucug5
+
+MatchLength: 11 "bni1" at 5151 vs. "bni1" at 2094 
+5uguggaagucu3
+3guaccuuuaga5
+
+MatchLength: 11 "bni1" at 1866 vs. "bni1" at 1195 
+5ugugguggagg3
+3acaucgucucu5
+
+MatchLength: 11 "bni1" at 1866 vs. "bni1" at 6619 
+5ugugguggagg3
+3guauugcuucu5
+
+MatchLength: 11 "bni1" at 5442 vs. "bni1" at 2139 
+5uguguucgaug3
+3auauaaguuac5
+
+MatchLength: 14 "bni1" at 5444 vs. "bni1" at 1590 
+5uguucgaugugauc3
+3auaggcuauauuag5
+
+MatchLength: 11 "bni1" at 4911 vs. "bni1" at 2084 
+5uguucucucgg3
+3acgagaggguc5
+
+MatchLength: 11 "bni1" at 1991 vs. "bni1" at 2454 
+5uguugguugca3
+3auagcugacgu5
+
+MatchLength: 12 "bni1" at 6764 vs. "bni1" at 612 
+5uguuucauaucu3
+3acaaggugugga5
+
+MatchLength: 13 "bni1" at 5211 vs. "bni1" at 3630 
+5uguuucuucaguu3
+3guaaagaaguuag5
+
+MatchLength: 12 "bni1" at 6756 vs. "bni1" at 3328 
+5uguuugcuuguu3
+3augaacgagugg5
+
+MatchLength: 13 "bni1" at 6756 vs. "bni1" at 6923 
+5uguuugcuuguuu3
+3acgagugaguaga5
+
+MatchLength: 11 "bni1" at 6729 vs. "bni1" at 2575 
+5uguuuuguggg3
+3auaagacguuu5
+
+MatchLength: 11 "bni1" at 4994 vs. "bni1" at 6064 
+5uuacuuucuug3
+3agugggagaac5
+
+MatchLength: 11 "bni1" at 4994 vs. "bni1" at 1902 
+5uuacuuucuug3
+3gaugggaggac5
+
+MatchLength: 11 "bni1" at 1347 vs. "bni1" at 6126 
+5uuauggcauug3
+3gguacuguagc5
+
+MatchLength: 11 "bni1" at 5929 vs. "bni1" at 3943 
+5uucaagaaauu3
+3agguucuuuga5
+
+MatchLength: 13 "bni1" at 159 vs. "bni1" at 3470 
+5uucagauugugug3
+3agguuuagugcau5
+
+MatchLength: 11 "bni1" at 3693 vs. "bni1" at 2078 
+5uucaguaggua3
+3gggucauccau5
+
+MatchLength: 12 "bni1" at 6831 vs. "bni1" at 1863 
+5uucauuguagag3
+3agguggugucuc5
+
+MatchLength: 11 "bni1" at 2098 vs. "bni1" at 5573 
+5uuccauguggu3
+3aaggugcauca5
+
+MatchLength: 11 "bni1" at 1032 vs. "bni1" at 2080 
+5uucccaguggg3
+3gagggucaucc5
+
+MatchLength: 11 "bni1" at 1985 vs. "bni1" at 2287 
+5uuccuuuguug3
+3aaggagacaac5
+
+MatchLength: 11 "bni1" at 5446 vs. "bni1" at 4821 
+5uucgaugugau3
+3ggguuacguug5
+
+MatchLength: 14 "bni1" at 5887 vs. "bni1" at 4003 
+5uucggagaagaugc3
+3aggcuucuucuaug5
+
+MatchLength: 11 "bni1" at 2039 vs. "bni1" at 3434 
+5uucguggaaga3
+3aagcaucuuuu5
+
+MatchLength: 11 "bni1" at 357 vs. "bni1" at 6919 
+5uucguuuguuu3
+3gaguagacgaa5
+
+MatchLength: 11 "bni1" at 357 vs. "bni1" at 6923 
+5uucguuuguuu3
+3gagugaguaga5
+
+MatchLength: 12 "bni1" at 3141 vs. "bni1" at 3943 
+5uucuaagaggcu3
+3aagguucuuuga5
+
+MatchLength: 11 "bni1" at 3061 vs. "bni1" at 2671 
+5uugaaaccaga3
+3aauuuuggucu5
+
+MatchLength: 11 "bni1" at 3130 vs. "bni1" at 2176 
+5uugacaagaga3
+3gguuguucucu5
+
+MatchLength: 16 "bni1" at 805 vs. "bni1" at 805 
+5uugacgggcucgucgg3
+3ggcugcucgggcaguu5
+
+MatchLength: 11 "bni1" at 5126 vs. "bni1" at 5626 
+5uugaguucuug3
+3aguucaaggac5
+
+MatchLength: 12 "bni1" at 5126 vs. "bni1" at 5499 
+5uugaguucuugu3
+3aacuuggggaca5
+
+MatchLength: 12 "bni1" at 5126 vs. "bni1" at 5970 
+5uugaguucuugu3
+3aauuugaggacg5
+
+MatchLength: 11 "bni1" at 4822 vs. "bni1" at 6953 
+5uugcauuggga3
+3gacguggcuuu5
+
+MatchLength: 15 "bni1" at 1816 vs. "bni1" at 2551 
+5uugcgggaagggaug3
+3gguguccuucucuac5
+
+MatchLength: 13 "bni1" at 6759 vs. "bni1" at 3887 
+5uugcuuguuucau3
+3gaugaacaaagua5
+
+MatchLength: 12 "bni1" at 3232 vs. "bni1" at 4275 
+5uuggaaaugacg3
+3ggucuuuguugc5
+
+MatchLength: 12 "bni1" at 2947 vs. "bni1" at 5210 
+5uuggagaaacau3
+3gacuucuuugug5
+
+MatchLength: 12 "bni1" at 1990 vs. "bni1" at 5460 
+5uuguugguugca3
+3aauggcugacgu5
+
+MatchLength: 11 "bni1" at 939 vs. "bni1" at 1864 
+5uuuaccacagg3
+3agguggugucu5
+
+MatchLength: 12 "bni1" at 3731 vs. "bni1" at 2037 
+5uuuccacggagg3
+3gaaggugcuucu5
+
+MatchLength: 11 "bni1" at 6953 vs. "bni1" at 4822 
+5uuucggugcag3
+3aggguuacguu5
+
+MatchLength: 11 "bni1" at 1637 vs. "bni1" at 3510 
+5uuucguugagg3
+3ggaguaauuuc5
+
+MatchLength: 11 "bni1" at 5620 vs. "bni1" at 2945 
+5uuucuccagga3
+3aaagagguuuu5
+
+MatchLength: 11 "bni1" at 538 vs. "bni1" at 6929 
+5uuucugcuugc3
+3aaggacgagug5
+
+MatchLength: 11 "bni1" at 2575 vs. "bni1" at 6729 
+5uuugcagaaua3
+3ggguguuuugu5
+
+MatchLength: 11 "bni1" at 2259 vs. "bni1" at 5167 
+5uuugcuauguu3
+3gaacgguauaa5
+
+MatchLength: 11 "bni1" at 471 vs. "bni1" at 3327 
+5uuugcucgucg3
+3gaacgaguggc5
+
+MatchLength: 11 "bni1" at 6758 vs. "bni1" at 3331 
+5uuugcuuguuu3
+3aaaugaacgag5
+
+MatchLength: 11 "bni1" at 6758 vs. "bni1" at 6927 
+5uuugcuuguuu3
+3ggacgagugag5
+
+MatchLength: 11 "bni1" at 2235 vs. "bni1" at 5954 
+5uuuguauucca3
+3gaacaugaggu5
+
+MatchLength: 12 "bni1" at 1629 vs. "bni1" at 5934 
+5uuuguggauuuc3
+3agacgcuuaaag5
+
+MatchLength: 11 "bni1" at 1989 vs. "bni1" at 3545 
+5uuuguugguug3
+3agguaaccggu5
+
+MatchLength: 11 "bni1" at 361 vs. "bni1" at 6927 
+5uuuguuuauuu3
+3ggacgagugag5
+
+MatchLength: 11 "bni1" at 6727 vs. "bni1" at 729 
+5uuuguuuugug3
+3ggacggggcgc5
+
+MatchLength: 13 "bni1" at 6727 vs. "bni1" at 3096 
+5uuuguuuuguggg3
+3agauaggacauuc5
+
+MatchLength: 11 "bni1" at 2426 vs. "bni1" at 3227 
+5uuuuaaugacu3
+3aagguuauugg5
+
+MatchLength: 11 "bni1" at 2676 vs. "bni1" at 3207 
+5uuuuaauggug3
+3agaguuauuau5
+
+MatchLength: 11 "bni1" at 1983 vs. "bni1" at 33 
+5uuuuccuuugu3
+3agaagggggug5
+
+MatchLength: 11 "bni1" at 3434 vs. "bni1" at 2039 
+5uuuucuacgaa3
+3agaaggugcuu5
+
+MatchLength: 11 "bni1" at 2945 vs. "bni1" at 5620 
+5uuuuggagaaa3
+3aggaccucuuu5
+
+MatchLength: 11 "bni1" at 3650 vs. "bni1" at 3473 
+5uuuuggaucgc3
+3aagguuuagug5
+
+MatchLength: 11 "bni1" at 2234 vs. "bni1" at 1395 
+5uuuuguauucc3
+3agaacauaagg5
+
+MatchLength: 11 "bni1" at 2234 vs. "bni1" at 1825 
+5uuuuguauucc3
+3aggacguaggg5
+
+MatchLength: 11 "bni1" at 4138 vs. "bni1" at 2943 
+5uuuuuagagga3
+3agagguuuucu5
+
+MatchLength: 11 "bni1" at 1982 vs. "bni1" at 3269 
+5uuuuuccuuug3
+3aagaaggagac5
+
+MatchLength: 11 "bni1" at 1106 vs. "bni1" at 1610 
+5uuuuugugcag3
+3aagaacacguc5

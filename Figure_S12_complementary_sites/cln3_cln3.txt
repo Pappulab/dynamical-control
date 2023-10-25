@@ -1,0 +1,32 @@
+Minimal match length: 11
+Opening file: /var/bibiserv2/anonymous/guugle/21/23/44/bibiserv2_2022-10-21_234451_I3piX/guugle_input_targetsequence.FILE
+Opening file: /var/bibiserv2/anonymous/guugle/21/23/44/bibiserv2_2022-10-21_234451_I3piX/guugle_input_querysequence.FILE
+
+
+MatchLength: 12 "cln3" at 1175 vs. "cln3" at 263 
+5cucgcgugggcu3
+3gggugugucugg5
+
+MatchLength: 11 "cln3" at 1405 vs. "cln3" at 1576 
+5gcgccuguguc3
+3cgcggacgugg5
+
+MatchLength: 12 "cln3" at 1216 vs. "cln3" at 1216 
+5gcugccggcggc3
+3cggcggccgucg5
+
+MatchLength: 12 "cln3" at 263 vs. "cln3" at 1175 
+5ggucuguguggg3
+3ucgggugcgcuc5
+
+MatchLength: 11 "cln3" at 1576 vs. "cln3" at 1405 
+5ggugcaggcgc3
+3cuguguccgcg5
+
+MatchLength: 12 "cln3" at 377 vs. "cln3" at 447 
+5ucgagaaucaga3
+3agcuuuuaguuu5
+
+MatchLength: 12 "cln3" at 447 vs. "cln3" at 377 
+5uuugauuuucga3
+3agacuaagagcu5
